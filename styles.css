@@ -1,5 +1,5 @@
-@font-face{ font-family: Thunder; src: url('thunder.ttf');}
-@font-face{ font-family: Bebas; src: url('BebasNeue.ttf');}
+@font-face{ font-family: Thunder; src: url('fonts/thunder.ttf');}
+@font-face{ font-family: Bebas; src: url('fonts/BebasNeue.ttf');}
 
 body {
   background-color: black;
