@@ -1,0 +1,9 @@
+@font-face{ font-family: Thunder; src: url('thunder.tff');}
+
+body {
+	background-color: black;
+}
+h1, h2, h3, p{
+	color: white;
+	font-family: Thunder;
+}
