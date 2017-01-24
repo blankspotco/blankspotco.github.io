@@ -1,23 +1,29 @@
 @font-face{ font-family: Thunder; src: url('thunder.ttf');}
+@font-face{ font-family: Bebas; src: url('BebasNeue.ttf');}
 
 body {
   background-color: black;
 }
 h1, h2, h3, p{
 	color: white;
-	font-family: Thunder;
 }
+
+h2, h3, p{
+	font-family: Bebas;
+}
+
 h1{
+	font-family: Thunder;
 	text-align: center;
-  font-size: 300%
+	font-size: 300%
 }
 h2{
 	text-align: center;
-  font-size: 200%
+	font-size: 200%
 }
 h3{
 	text-align: center;
-  font-size: 200%
+	font-size: 200%
 }
 p{
 	text-align: center;
