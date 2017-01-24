@@ -1,9 +1,25 @@
 @font-face{ font-family: Thunder; src: url('thunder.ttf');}
 
 body {
-	background-color: black;
+  background-color: black;
 }
 h1, h2, h3, p{
 	color: white;
 	font-family: Thunder;
+}
+h1{
+	text-align: center;
+  font-size: 300%
+}
+h2{
+	text-align: center;
+  font-size: 200%
+}
+h3{
+	text-align: center;
+  font-size: 200%
+}
+p{
+	text-align: center;
+    font-size: 150%
 }
